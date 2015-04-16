@@ -1,4 +1,4 @@
-= SleepOver
+#SleepOver
 SleepOver is a Ruby on Rails web app for posting rental cabins. 
 It was built in one day by Katherine Carr and Gabe Finch.
 
